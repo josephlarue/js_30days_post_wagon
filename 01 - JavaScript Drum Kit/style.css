@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://images.unsplash.com/photo-1585849847053-9943f9a2e521?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) bottom center;
   background-size: cover;
 }
 
@@ -34,7 +34,7 @@ body,html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
+  border-color: pink;
   box-shadow: 0 0 1rem #ffc600;
 }
 
